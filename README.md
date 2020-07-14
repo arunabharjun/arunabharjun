@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![arunabharjun.com](profile.png "arunabharjun.com") 
+![arunabharjun.com](profile_readme.png "arunabharjun.com") 
 
 <!--
 **arunabharjun/arunabharjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
