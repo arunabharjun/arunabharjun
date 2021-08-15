@@ -8,4 +8,3 @@
 - 📫 How to reach me: visit www.arunabharjun.com
 - 😄 Pronouns: Coder, product guy, UX Specialist, the list keeps going on ...
 - ⚡ Fun fact: One of the most powerful yet ignored thought is - "Focusing on 'great ideas' in a sea of,good ideas' makes you unique"
--->
